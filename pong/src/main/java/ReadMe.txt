@@ -1,0 +1,2 @@
+Les seuls vraies modifications que j'ai apportés sont le fichier IA et quelques ligne dans les fichiers court,racketChangeante
+et racketController, le reste apparait comme modification car j'ai en parti détruit mon setup git et qu'il ne marche pas correctement.
